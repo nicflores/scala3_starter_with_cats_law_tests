@@ -1,6 +1,5 @@
 package com.pbtwd
 
-import cats.effect.IO
 import cats.effect.testing.specs2.CatsEffect
 import org.specs2.mutable.Specification
 
